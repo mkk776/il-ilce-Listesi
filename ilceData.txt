@@ -64,7 +64,7 @@ ordu : akkus,altinordu,aybasti,camas,catalpinar,caybasi,fatsa,golkoy,gulyali,gur
 osmaniye : bahce,duzici,hasanbeyli,kadirli,merkez,sumbas,toprakkale
 rize : ardesen,camlihemsin,cayeli,derepazari,findikli,guneysu,hemsin,ikizdere,iyidere,kalkandere,merkez,pazar
 sakarya : adapazari,akyazi,arifiye,erenler,ferizli,geyve,hendek,karapurcek,karasu,kaynarca,kocaali,pamukova,sapanca,serdivan,sogutlu,tarakli
-samsun : 19mayis,alacam,asarcik,atakum,ayvacik,bafra,canik,carsamba,havza,ilkadim,kavak,ladik,salipazari,tekkekoy,terme,vezirkopru,yakakent
+samsun : 19mayis,alacam,asarcik,atakum,ayvacik,bafra,canik,carsamba,havza,ilkadim,kavak,ladik,salipazari,tekkekoy,terme,vezirkopru,yakakent,atakum,canik,ilkadım
 siirt : akcakale,birecik,bozova,ceylanpinar,eyyubiye,halfeti,haliliye,harran,hilvan,karakopru,siverek,suruc,viransehir
 sinop : baykan,eruh,kurtalan,merkez,pervari,sirvan,tillo
 sivas : ayancik,boyabat,dikmen,duragan,erfelek,gerze,merkez,sarayduzu,turkeli
